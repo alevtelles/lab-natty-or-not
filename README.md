@@ -54,8 +54,5 @@ Para contornar isso, o ideal é usar a IA como base e sempre editar o conteúdo 
 ---
 
 
-
----
-
 *Projeto criado com auxílio de Inteligência Artificial para facilitar o aprendizado sobre tecnologia.*
 
